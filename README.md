@@ -20,12 +20,12 @@ PickleBoy is a work-in-progress GameBoy emulator written in C++. The goal of the
                      |                     |
                      | Cartridge ROM -     |
                      | Switchable Banks    |
-                     | 1-xx               |
+                     | 1-xx                |
                      +---------------------+
     0x4000-0x7FFF   +---------------------+
                      | Cartridge ROM -     |
                      | Switchable Banks    |
-                     | 1-xx               |
+                     | 1-xx                |
                      +---------------------+
     0x8000-0x97FF   +---------------------+
                      | Character RAM       |
